@@ -1,0 +1,15 @@
+{
+  "name": "gatsby-apollo-minimal-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "gatsby develop"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.0.2",
+    "gatsby": "^2.24.9",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
