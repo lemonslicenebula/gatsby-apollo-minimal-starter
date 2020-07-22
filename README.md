@@ -8,6 +8,6 @@ Install this starter with the Gatsby CLI (assuming you already have that install
 Copy and paste the following lines into a terminal:
 
 ``` 
-    gatsby new YourProjectName https://github.com/lemonslicenebula/gatsby-apollo-minimal-starter
-    yarn start #or gatsby develop
+gatsby new YourProjectName https://github.com/lemonslicenebula/gatsby-apollo-minimal-starter
+yarn start #or gatsby develop
 ```
