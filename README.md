@@ -1,5 +1,5 @@
 # gatsby-apollo-minimal-starter
-Hello world starter to get up and running with Gatsby and Apollo Client
+Hello world starter to get up and running with Gatsby and Apollo Client for your projects! 
 
 #### Getting Started
 
